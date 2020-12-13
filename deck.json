@@ -1,0 +1,666 @@
+[
+    {
+        "0_red": {
+            "color": "#f44336",
+            "card": "0"
+        }
+    },
+    {
+        "0_yellow": {
+            "color": "#ffc107",
+            "card": "0"
+        }
+    },
+    {
+        "0_green": {
+            "color": "#4caf50",
+            "card": "0"
+        }
+    },
+    {
+        "0_blue": {
+            "color": "#2196f3",
+            "card": "0"
+        }
+    },
+    {
+        "1_red": {
+            "color": "#f44336",
+            "card": "1"
+        }
+    },
+    {
+        "1_yellow": {
+            "color": "#ffc107",
+            "card": "1"
+        }
+    },
+    {
+        "1_green": {
+            "color": "#4caf50",
+            "card": "1"
+        }
+    },
+    {
+        "1_blue": {
+            "color": "#2196f3",
+            "card": "1"
+        }
+    },
+    {
+        "2_red": {
+            "color": "#f44336",
+            "card": "2"
+        }
+    },
+    {
+        "2_yellow": {
+            "color": "#ffc107",
+            "card": "2"
+        }
+    },
+    {
+        "2_green": {
+            "color": "#4caf50",
+            "card": "2"
+        }
+    },
+    {
+        "2_blue": {
+            "color": "#2196f3",
+            "card": "2"
+        }
+    },
+    {
+        "3_red": {
+            "color": "#f44336",
+            "card": "3"
+        }
+    },
+    {
+        "3_yellow": {
+            "color": "#ffc107",
+            "card": "3"
+        }
+    },
+    {
+        "3_green": {
+            "color": "#4caf50",
+            "card": "3"
+        }
+    },
+    {
+        "3_blue": {
+            "color": "#2196f3",
+            "card": "3"
+        }
+    },
+    {
+        "4_red": {
+            "color": "#f44336",
+            "card": "4"
+        }
+    },
+    {
+        "4_yellow": {
+            "color": "#ffc107",
+            "card": "4"
+        }
+    },
+    {
+        "4_green": {
+            "color": "#4caf50",
+            "card": "4"
+        }
+    },
+    {
+        "4_blue": {
+            "color": "#2196f3",
+            "card": "4"
+        }
+    },
+    {
+        "5_red": {
+            "color": "#f44336",
+            "card": "5"
+        }
+    },
+    {
+        "5_yellow": {
+            "color": "#ffc107",
+            "card": "5"
+        }
+    },
+    {
+        "5_green": {
+            "color": "#4caf50",
+            "card": "5"
+        }
+    },
+    {
+        "5_blue": {
+            "color": "#2196f3",
+            "card": "5"
+        }
+    },
+    {
+        "6_red": {
+            "color": "#f44336",
+            "card": "6"
+        }
+    },
+    {
+        "6_yellow": {
+            "color": "#ffc107",
+            "card": "6"
+        }
+    },
+    {
+        "6_green": {
+            "color": "#4caf50",
+            "card": "6"
+        }
+    },
+    {
+        "6_blue": {
+            "color": "#2196f3",
+            "card": "6"
+        }
+    },
+    {
+        "7_red": {
+            "color": "#f44336",
+            "card": "7"
+        }
+    },
+    {
+        "7_yellow": {
+            "color": "#ffc107",
+            "card": "7"
+        }
+    },
+    {
+        "7_green": {
+            "color": "#4caf50",
+            "card": "7"
+        }
+    },
+    {
+        "7_blue": {
+            "color": "#2196f3",
+            "card": "7"
+        }
+    },
+    {
+        "8_red": {
+            "color": "#f44336",
+            "card": "8"
+        }
+    },
+    {
+        "8_yellow": {
+            "color": "#ffc107",
+            "card": "8"
+        }
+    },
+    {
+        "8_green": {
+            "color": "#4caf50",
+            "card": "8"
+        }
+    },
+    {
+        "8_blue": {
+            "color": "#2196f3",
+            "card": "8"
+        }
+    },
+    {
+        "9_red": {
+            "color": "#f44336",
+            "card": "9"
+        }
+    },
+    {
+        "9_yellow": {
+            "color": "#ffc107",
+            "card": "9"
+        }
+    },
+    {
+        "9_green": {
+            "color": "#4caf50",
+            "card": "9"
+        }
+    },
+    {
+        "9_blue": {
+            "color": "#2196f3",
+            "card": "9"
+        }
+    },
+    {
+        "0_red_1": {
+            "color": "#f44336",
+            "card": "0"
+        }
+    },
+    {
+        "0_yellow_1": {
+            "color": "#ffc107",
+            "card": "0"
+        }
+    },
+    {
+        "0_green_1": {
+            "color": "#4caf50",
+            "card": "0"
+        }
+    },
+    {
+        "0_blue_1": {
+            "color": "#2196f3",
+            "card": "0"
+        }
+    },
+    {
+        "1_red_1": {
+            "color": "#f44336",
+            "card": "1"
+        }
+    },
+    {
+        "1_yellow_1": {
+            "color": "#ffc107",
+            "card": "1"
+        }
+    },
+    {
+        "1_green_1": {
+            "color": "#4caf50",
+            "card": "1"
+        }
+    },
+    {
+        "1_blue_1": {
+            "color": "#2196f3",
+            "card": "1"
+        }
+    },
+    {
+        "2_red": {
+            "color": "#f44336",
+            "card": "2"
+        }
+    },
+    {
+        "2_yellow_1": {
+            "color": "#ffc107",
+            "card": "2"
+        }
+    },
+    {
+        "2_green_1": {
+            "color": "#4caf50",
+            "card": "2"
+        }
+    },
+    {
+        "2_blue_1": {
+            "color": "#2196f3",
+            "card": "2"
+        }
+    },
+    {
+        "3_red_1": {
+            "color": "#f44336",
+            "card": "3"
+        }
+    },
+    {
+        "3_yellow_1": {
+            "color": "#ffc107",
+            "card": "3"
+        }
+    },
+    {
+        "3_green_1": {
+            "color": "#4caf50",
+            "card": "3"
+        }
+    },
+    {
+        "3_blue_1": {
+            "color": "#2196f3",
+            "card": "3"
+        }
+    },
+    {
+        "4_red_1": {
+            "color": "#f44336",
+            "card": "4"
+        }
+    },
+    {
+        "4_yellow_1": {
+            "color": "#ffc107",
+            "card": "4"
+        }
+    },
+    {
+        "4_green_1": {
+            "color": "#4caf50",
+            "card": "4"
+        }
+    },
+    {
+        "4_blue_1": {
+            "color": "#2196f3",
+            "card": "4"
+        }
+    },
+    {
+        "5_red_1": {
+            "color": "#f44336",
+            "card": "5"
+        }
+    },
+    {
+        "5_yellow_1": {
+            "color": "#ffc107",
+            "card": "5"
+        }
+    },
+    {
+        "5_green_1": {
+            "color": "#4caf50",
+            "card": "5"
+        }
+    },
+    {
+        "5_blue_1": {
+            "color": "#2196f3",
+            "card": "5"
+        }
+    },
+    {
+        "6_red_1": {
+            "color": "#f44336",
+            "card": "6"
+        }
+    },
+    {
+        "6_yellow_1": {
+            "color": "#ffc107",
+            "card": "6"
+        }
+    },
+    {
+        "6_green_1": {
+            "color": "#4caf50",
+            "card": "6"
+        }
+    },
+    {
+        "6_blue_1": {
+            "color": "#2196f3",
+            "card": "6"
+        }
+    },
+    {
+        "7_red_1": {
+            "color": "#f44336",
+            "card": "7"
+        }
+    },
+    {
+        "7_yellow_1": {
+            "color": "#ffc107",
+            "card": "7"
+        }
+    },
+    {
+        "7_green_1": {
+            "color": "#4caf50",
+            "card": "7"
+        }
+    },
+    {
+        "7_blue_1": {
+            "color": "#2196f3",
+            "card": "7"
+        }
+    },
+    {
+        "8_red_1": {
+            "color": "#f44336",
+            "card": "8"
+        }
+    },
+    {
+        "8_yellow_1": {
+            "color": "#ffc107",
+            "card": "8"
+        }
+    },
+    {
+        "8_green_1": {
+            "color": "#4caf50",
+            "card": "8"
+        }
+    },
+    {
+        "8_blue_1": {
+            "color": "#2196f3",
+            "card": "8"
+        }
+    },
+    {
+        "9_red_1": {
+            "color": "#f44336",
+            "card": "9"
+        }
+    },
+    {
+        "9_yellow_1": {
+            "color": "#ffc107",
+            "card": "9"
+        }
+    },
+    {
+        "9_green_1": {
+            "color": "#4caf50",
+            "card": "9"
+        }
+    },
+    {
+        "9_blue_1": {
+            "color": "#2196f3",
+            "card": "9"
+        }
+    },
+    {
+        "plus_2_red": {
+            "color": "#f44336",
+            "card": "plus_2"
+        }
+    },
+    {
+        "plus_2_yellow": {
+            "color": "#ffc107",
+            "card": "plus_2"
+        }
+    },
+    {
+        "plus_2_green": {
+            "color": "#4caf50",
+            "card": "plus_2"
+        }
+    },
+    {
+        "plus_2_blue": {
+            "color": "#2196f3",
+            "card": "plus_2"
+        }
+    },
+    {
+        "plus_2_red_1": {
+            "color": "#f44336",
+            "card": "plus_2"
+        }
+    },
+    {
+        "plus_2_yellow_1": {
+            "color": "#ffc107",
+            "card": "plus_2"
+        }
+    },
+    {
+        "plus_2_green_1": {
+            "color": "#4caf50",
+            "card": "plus_2"
+        }
+    },
+    {
+        "plus_2_blue_1": {
+            "color": "#2196f3",
+            "card": "plus_2"
+        }
+    },
+    {
+        "reverse_red": {
+            "color": "#f44336",
+            "card": "reverse"
+        }
+    },
+    {
+        "reverse_yellow": {
+            "color": "#ffc107",
+            "card": "reverse"
+        }
+    },
+    {
+        "reverse_green": {
+            "color": "#4caf50",
+            "card": "reverse"
+        }
+    },
+    {
+        "reverse_blue": {
+            "color": "#2196f3",
+            "card": "reverse"
+        }
+    },
+    {
+        "reverse_red_1": {
+            "color": "#f44336",
+            "card": "reverse"
+        }
+    },
+    {
+        "reverse_yellow_1": {
+            "color": "#ffc107",
+            "card": "reverse"
+        }
+    },
+    {
+        "reverse_green_1": {
+            "color": "#4caf50",
+            "card": "reverse"
+        }
+    },
+    {
+        "reverse_blue_1": {
+            "color": "#2196f3",
+            "card": "reverse"
+        }
+    },
+    {
+        "skip_red": {
+            "color": "#f44336",
+            "card": "skip"
+        }
+    },
+    {
+        "skip_yellow": {
+            "color": "#ffc107",
+            "card": "skip"
+        }
+    },
+    {
+        "skip_green": {
+            "color": "#4caf50",
+            "card": "skip"
+        }
+    },
+    {
+        "skip_blue": {
+            "color": "#2196f3",
+            "card": "skip"
+        }
+    },
+    {
+        "skip_red_1": {
+            "color": "#f44336",
+            "card": "skip"
+        }
+    },
+    {
+        "skip_yellow_1": {
+            "color": "#ffc107",
+            "card": "skip"
+        }
+    },
+    {
+        "skip_green_1": {
+            "color": "#4caf50",
+            "card": "skip"
+        }
+    },
+    {
+        "skip_blue_1": {
+            "color": "#2196f3",
+            "card": "skip"
+        }
+    },
+    {
+        "wild_1": {
+            "card": "wild"
+        }
+    },
+    {
+        "wild_2": {
+            "card": "wild"
+        }
+    },
+    {
+        "wild_3": {
+            "card": "wild"
+        }
+    },
+    {
+        "wild_4": {
+            "card": "wild"
+        }
+    },
+    {
+        "wild_plus_4_1": {
+            "card": "wild_plus_4"
+        }
+    },
+    {
+        "wild_plus_4_2": {
+            "card": "wild_plus_4"
+        }
+    },
+    {
+        "wild_plus_4_3": {
+            "card": "wild_plus_4"
+        }
+    },
+    {
+        "wild_plus_4_4": {
+            "card": "wild_plus_4"
+        }
+    }
+]
