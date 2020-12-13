@@ -20,7 +20,6 @@ const client = new MongoClient(uri, {
 })()
 
 const server = http.createServer(app)
-const io = socket(server)
 
 app.use(express.static('./build', { setHeaders: function (response, path, stat) { response.set("Cache-Control", "no-store") }, maxAge: '0', etag: false }));
 
@@ -42,6 +41,11 @@ app.get('/', (req, res) => {
 function randint(min, max) {
     return Math.floor(Math.random() * (max - min + 1) + min);
 }
+
+const ioexpress = require('express')();
+const ioserver = http.createServer(ioexpress);
+const io = socket(ioserver, { cors: { allow: "*" } });
+io.listen(65080, () => console.log("socket io server listening on port 65080"));
 
 
 io.on('connection', function (socket) {
