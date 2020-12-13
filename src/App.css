@@ -2,6 +2,10 @@
   font-family: 'Roboto Mono', monospace;
 }
 
+a {
+  color: inherit;
+}
+
 .container {
   display: flex;
   align-items: center;
@@ -9,7 +13,6 @@
   flex-direction: column;
   height: 100%;
 }
-
 
 .update-notes {
   box-sizing: border-box;
@@ -34,6 +37,16 @@
   border-radius: 6px;
   width: fit-content;
   margin: 0;
+}
+
+.update-contents {
+  max-height: 160px;
+  overflow-y: auto;
+  margin: 12px 0;
+}
+
+.update-contents p {
+  margin: 0 0 12px 0;
 }
 
 .update-close {

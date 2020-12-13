@@ -42,10 +42,10 @@ function randint(min, max) {
     return Math.floor(Math.random() * (max - min + 1) + min);
 }
 
-const ioexpress = require('express')();
-const ioserver = http.createServer(ioexpress);
-const io = socket(ioserver, { cors: { allow: "*" } });
-io.listen(65080, () => console.log("socket io server listening on port 65080"));
+//const ioexpress = require('express')();
+//const ioserver = http.createServer(ioexpress);
+const io = socket(server, { cors: { allow: "*" } });
+//io.listen(65080, () => console.log("socket io server listening on port 65080"));
 
 
 io.on('connection', function (socket) {
